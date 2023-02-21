@@ -1,0 +1,1 @@
+# Analise-Mercado-Financeiro_Acoes-da-Magalu.ipynb
